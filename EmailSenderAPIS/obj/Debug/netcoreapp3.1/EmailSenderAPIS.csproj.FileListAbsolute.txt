@@ -1,0 +1,68 @@
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.exe
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.deps.json
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.runtimeconfig.json
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.runtimeconfig.dev.json
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.pdb
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.AssemblyInfo.cs
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\staticwebassets\EmailSenderAPIS.StaticWebAssets.Manifest.cache
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\staticwebassets\EmailSenderAPIS.StaticWebAssets.xml
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmailSenderAPIS.styles.css
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.RazorTargetAssemblyInfo.cache
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.csproj.CopyComplete
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.pdb
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.genruntimeconfig.cache
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\visha\source\repos\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.exe
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.deps.json
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.runtimeconfig.json
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.runtimeconfig.dev.json
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\EmailSenderAPIS.pdb
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.csproj.AssemblyReference.cache
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.AssemblyInfoInputs.cache
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.AssemblyInfo.cs
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.csproj.CoreCompileInputs.cache
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.MvcApplicationPartsAssemblyInfo.cs
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.MvcApplicationPartsAssemblyInfo.cache
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\staticwebassets\EmailSenderAPIS.StaticWebAssets.Manifest.cache
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\staticwebassets\EmailSenderAPIS.StaticWebAssets.xml
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmailSenderAPIS.styles.css
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.RazorTargetAssemblyInfo.cache
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.csproj.CopyComplete
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.dll
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.pdb
+D:\Document\React + C#\SendEmail\EmailSenderAPIS\EmailSenderAPIS\obj\Debug\netcoreapp3.1\EmailSenderAPIS.genruntimeconfig.cache
